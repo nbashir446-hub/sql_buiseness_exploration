@@ -49,7 +49,6 @@ If leadership chooses to move forward with Magist despite the risks, ENIAC shoul
 ## 📂 Repository Structure
 
 ```text
-├── data/              # Dataset documentation & schemas
 ├── queries/           # SQL scripts used for extraction & analysis
 │   ├── product_fit.sql
 │   └── delivery_performance.sql
