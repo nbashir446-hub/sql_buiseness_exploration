@@ -1,4 +1,4 @@
-# ENIAC x Magist: Business Expansion & Logistics Analysis (SQL)
+# SQL Business Exploration: ENIAC x Magist Partnership Analysis
 
 ## 📌 Project Overview
 **ENIAC** is an e-commerce company based in Europe specializing in high-tech products and Apple-compatible accessories. As part of its international expansion strategy into Brazil, ENIAC evaluated a potential partnership with **Magist**—a Brazilian Software as a Service (SaaS) platform connecting merchants to major regional marketplaces.
